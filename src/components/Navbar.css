@@ -45,20 +45,20 @@
   margin-right: 2rem;
 }
 
-.nav-menu-active {
+/* .nav-menu-active {
   position: fixed;
   background: linear-gradient(90deg, rgb(28, 27, 27) 0%, rgb(26, 23, 23) 100%);
   top: 0;
   margin-top: 4rem;
   height: 100%;
   width: 100%;
-  /* display: grid; */
-  /* flex-direction: column; */
+  display: grid; 
+   flex-direction: column; 
   justify-content: center;
   align-items: center;
-  pointer-events: none;
-  /* transition: opacity; */
-}
+  pointer-events: none; 
+  transition: opacity;
+} */
   
 .nav-item {
   height: 80px;

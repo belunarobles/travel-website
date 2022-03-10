@@ -98,6 +98,8 @@
     font-size: 18px;
     line-height: 24px;
   }
+
+
   
   @media only screen and (min-width: 1200px) {
     .content__blog__container {
@@ -116,3 +118,4 @@
       margin-bottom: 2rem;
     }
   }
+
